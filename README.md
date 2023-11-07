@@ -1,2 +1,2 @@
 # hospitaldata
-curd operations
+crud operations
